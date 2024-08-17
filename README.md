@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DmytriiTsybuliak/DmytriiTsybuliak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dmytrii Tsybuliak**, a passionate Frontend Developer with experience in React and JavaScript. I recently completed GoIT's Full Stack Development program, where I worked on several team projects.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning more about advanced React and state management.
+- 💼 Open to job opportunities as a **Frontend Developer** or **Support Management**.
+- 💬 Ask me about web development, team collaboration, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React, Redux
+- **Tools**: Git, Webpack, VS Code, Node.js
+- **Soft Skills**: Communication, Leadership, Teamwork
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytriitsybuliak&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/dmytrii-tsybuliak/)
