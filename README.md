@@ -19,9 +19,13 @@ Here are some of the projects I worked on during my GoIT courses:
 - [TMDB Movies Library](https://github.com/DmytriiTsybuliak/TMDB-movies-library): A personal React project that enables users to search for movies, view the day's trending titles, and explore detailed descriptions of selected films. This project showcases proficiency in React, API integration, and user-friendly interface design.
 
 ### 📈 GitHub Stats
-![Dmytrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytriiTsybuliak&show_icons=true&theme=radical)
-<div align="center">
+![Dmytrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytriiTsybuliak&show_icons=true&theme=github_dark_dimmed)
+
+<div >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmytriiTsybuliak&layout=compact&bg_color=3a485e&text_color=ffffff" />
   </a>
 </div>
+
+### 📍Pinned Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytriiTsybuliak&repo=TMDB-movies-library)](https://github.com/DmytriiTsybuliak/TMDB-movies-library)
