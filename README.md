@@ -1,20 +1,15 @@
 # Hi there, I'm Dmytrii Tsybuliak! 👋
 
-I'm a passionate **Frontend Developer** with a focus on **React** and **JavaScript/TypeScript**. I have recently completed GoIT's Full Stack Development program, where I worked on several team projects, which you can explore below. 
+I’m actively looking for job opportunities as **Full Stack Developer**. I recently completed the GoIT course on Full Stack Development. With experience in managing teams at TrackEnsure, I bring strong soft skills in communication, leadership, and teamwork to the table.
 
-### 🌟 What I Do
+### 🌟 About me
+- HTML, CSS, DOM API;
 - Building responsive and user-friendly web interfaces using **React**.
-- Crafting clean, maintainable, and efficient code in **JavaScript**.
-- Continuously learning and improving my skills in web development.
-
-### 💼 Open to Opportunities
-I’m actively looking for job opportunities as a **Frontend Developer**. With experience in managing teams at TrackEnsure, I bring strong soft skills in communication, leadership, and teamwork to the table.
-
-### 🛠️ Technologies & Tools
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Redux
-- **Tools**: Git, Vercel, VS Code, Node.js, Postman, MongoDB
-- **Soft Skills**: Communication, Leadership, Teamwork
+- Profound knowledge of JavaScript and TypeScript, leveraging best practices;
+- Experience with Redux and Redux-Toolkit library;
+- Proficient in Git version control, ensuring code quality, collaboration, and version tracking;
+- Setting up project compilation from scratch and project deployment experience(Vercel);
+- Experience with Node.js, MongoDB and Postman.
 
 ### 🚀 My Projects
 Here are some of the projects I worked on during my GoIT courses:
