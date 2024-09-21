@@ -20,7 +20,7 @@ Here are some of the projects I worked on during my GoIT courses:
 
 ### 📈 GitHub Stats
 ![Dmytrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmytriiTsybuliak&show_icons=true&theme=radical)
-<div align="left">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmytriiTsybuliak&layout=compact&bg_color=3a485e&text_color=ffffff" />
   </a>
