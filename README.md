@@ -29,3 +29,5 @@ Here are some of the projects I worked on during my GoIT courses:
 
 ### 📍Pinned Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytriiTsybuliak&repo=TMDB-movies-library)](https://github.com/DmytriiTsybuliak/TMDB-movies-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DmytriiTsybuliak&repo=project-radioactive)](https://github.com/DmytriiTsybuliak/project-radioactive)
+
