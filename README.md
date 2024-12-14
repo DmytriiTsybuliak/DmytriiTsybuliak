@@ -17,7 +17,7 @@ I’m a **Full Stack Developer**. I recently completed the GoIT course on Full S
 
 ### 🚀 Pet Projects
 - [TMDB Movies Library](https://github.com/DmytriiTsybuliak/TMDB-movies-library): A personal React project that enables users to search for movies, view the day's trending titles, and explore detailed descriptions of selected films. This project showcases proficiency in React, API integration(TMDB API + Movies Library Backend API), and user-friendly interface design.
-- [Movies Library Backend API](https://github.com/DmytriiTsybuliak/TMDB-movies-library): Movies Library Backend is a robust backend project designed to support a movie and TV show library application. It provides secure user authentication, session handling, and comprehensive management features for user favorites.
+- [Movies Library Backend API](https://github.com/DmytriiTsybuliak/movies-library-backend): Movies Library Backend is a robust backend project designed to support a movie and TV show library application. It provides secure user authentication, session handling, and comprehensive management features for user favorites.
 - [Pixabay-Gallery](https://github.com/DmytriiTsybuliak/Pixabay-Gallery): A personal React project that enables users to search any images through Pixabay API.
 
 ### 📈 GitHub Stats
