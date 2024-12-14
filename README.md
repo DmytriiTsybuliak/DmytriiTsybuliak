@@ -16,7 +16,8 @@ I’m a **Full Stack Developer**. I recently completed the GoIT course on Full S
 - [AquaTrack](https://aqua-teamwork-app.vercel.app/): The third team project allowed users to track their water consumption, to register new user. Built with React and Node.js, the project employed MongoDB for the database, Render for backend deployment, Redux Toolkit for state management, and React Router for navigation. The project also involved CORS settings and managing complex application states. We used different react libraries to get maximum effort on this website
 
 ### 🚀 Pet Projects
-- [TMDB Movies Library](https://github.com/DmytriiTsybuliak/TMDB-movies-library): A personal React project that enables users to search for movies, view the day's trending titles, and explore detailed descriptions of selected films. This project showcases proficiency in React, API integration, and user-friendly interface design.
+- [TMDB Movies Library](https://github.com/DmytriiTsybuliak/TMDB-movies-library): A personal React project that enables users to search for movies, view the day's trending titles, and explore detailed descriptions of selected films. This project showcases proficiency in React, API integration(TMDB API + Movies Library Backend API), and user-friendly interface design.
+- [Movies Library Backend API](https://github.com/DmytriiTsybuliak/TMDB-movies-library): Movies Library Backend is a robust backend project designed to support a movie and TV show library application. It provides secure user authentication, session handling, and comprehensive management features for user favorites.
 - [Pixabay-Gallery](https://github.com/DmytriiTsybuliak/Pixabay-Gallery): A personal React project that enables users to search any images through Pixabay API.
 
 ### 📈 GitHub Stats
