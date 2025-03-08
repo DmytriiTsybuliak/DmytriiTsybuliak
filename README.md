@@ -1,6 +1,6 @@
 # Hi there, I'm Dmytrii Tsybuliak! 👋
 
-I’m a **Full Stack Developer**. I recently completed the GoIT course on Full Stack Development(Sep 2024). With experience in managing teams at TrackEnsure, I bring strong soft skills in communication, leadership, and teamwork to the table.
+I’m a **Full Stack Developer**. I recently completed the GoIT course on Full Stack Development(Sep 2024). 
 
 ### 🌟 About me
 - HTML, CSS, DOM API;
