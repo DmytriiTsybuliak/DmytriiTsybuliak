@@ -1,6 +1,6 @@
 # Hi there, I'm Dmytrii Tsybuliak! 👋
 
-I’m a **Full Stack Developer**. I have completed the GoIT course on Full Stack Development. By the way I have bachelor degree of Computer Science. 
+I’m a **Full Stack Developer**. I have completed the GoIT course on Full Stack Development. By the way, I have a bachelor's degree in computer science.
 
 ### 🌟 About me
 - HTML, CSS, DOM API;
