@@ -1,8 +1,6 @@
 # Hi there, I'm Dmytrii Tsybuliak! 👋
 
-I’m a **Full Stack Developer**. Completed the GoIT course on Full Stack Development. I have a bachelor's degree in computer science.
-
-### 🌟 About me
+### 🌟 About me:
 - HTML, CSS, SCSS, Tailwind CSS, DOM API;
 - Experience with React(React Router) and Next.js(App Router);
 - Profound knowledge of JavaScript and TypeScript, best practices usage;
